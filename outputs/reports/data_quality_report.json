@@ -1,0 +1,10 @@
+{
+    "raw_rows": 49612,
+    "processed_rows": 47941,
+    "removed_rows": 1671,
+    "missing_text_raw": 0,
+    "missing_label_raw": 0,
+    "duplicate_texts_raw": 667,
+    "mean_word_count": 72.72877078075135,
+    "median_word_count": 48.0
+}
